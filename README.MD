@@ -6,13 +6,13 @@
 - Agregar y mostrar el proceso de la creación del servicio de PhpMyAdmin utilizando la imagen oficial de Docker Hub (https://hub.docker.com/) de acuerdo a la siguiente configuración:
 
 <p align="center">
-    <img src="./images/instruccion1.png">
+    <img src="./images/instruccion1.png" style="border-radius: 15px;">
 </p>
 
 - Agregar y mostrar el proceso de la creación del servicio de MySql Server utilizando la imagen oficial de Docker Hub (https://hub.docker.com/) de acuerdo a la siguiente configuración:
 
 <p align="center">
-    <img src="./images/instruccion2.png">
+    <img src="./images/instruccion2.png" style="border-radius: 15px;">
 </p>
 
 - Crear el archivo Dockerfile para configurar el servicio backend
@@ -26,7 +26,7 @@
   - A partir del archivo Dockerfile creado para el backend se debe construir el contenedor de acuerdo a la siguiente configuración:
 
 <p align="center">
-    <img src="./images/instruccion3.png">
+    <img src="./images/instruccion3.png" style="border-radius: 15px;">
 </p>
 
 - Crear el archivo Dockerfile para configurar el servicio frontend
@@ -39,7 +39,7 @@
 - A partir del archivo Dockerfile creado para el frontend se debe construir el contenedor de acuerdo a la siguiente configuración:
 
 <p align="center">
-    <img src="./images/instruccion4.png">
+    <img src="./images/instruccion4.png" style="border-radius: 15px;">
 </p>
 
 **El resultado final debe ser el siguiente:**
@@ -48,16 +48,16 @@
   - Contraseña: **12345678**
 
 <p align="center">
-    <img src="./images/instruccion5.png">
+    <img src="./images/instruccion5.png" style="border-radius: 15px;">
 </p>
 
 - Backend:
 
 <p align="center">
-    <img src="./images/instruccion6.png">
+    <img src="./images/instruccion6.png" style="border-radius: 15px;">
 </p>
 
 - PhpMyAdmin:
 <p align="center">
-    <img src="./images/instruccion7.png">
+    <img src="./images/instruccion7.png" style="border-radius: 15px;">
 </p>
